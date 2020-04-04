@@ -10,11 +10,12 @@
 }
 header {
   width: 100%;
-  padding: 20px 0;
+  /* padding: 20px 0; */
   text-align: center;
 }
 header .headline {
   font-size: 32px;
+  padding: 20px 0;
 }
 .nav-list {
   text-align: center;
